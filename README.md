@@ -1,4 +1,3 @@
-# What-features-make-a-popular-track-on-Spotify
 # Spotify Popular Tracks Features Report
 
 ## Introduction	
