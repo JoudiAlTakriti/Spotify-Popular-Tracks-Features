@@ -15,7 +15,7 @@ Dataset Details:  4833 Rows & 29 Columns (for both files)
 
 Size: 1.4 MB and 733 KB (for each file)
 
-Source: Kaggle [Link](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset?select=low_popularity_spotify_data.csv))
+Source: Kaggle [Link](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset?select=low_popularity_spotify_data.csv)
 
 ## Data Analysis
 ### Data Cleaning
