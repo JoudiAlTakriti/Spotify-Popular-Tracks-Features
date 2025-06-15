@@ -1,7 +1,7 @@
 # Spotify Popular Tracks Features Report
 
 ## Introduction	
-The project analyzes a dataset sourced from Kaggle (Link), which has been compiled from Spotify. This dataset includes both popular and non-popular songs, along with their corresponding audio and descriptive features. Analyzing this data could offer valuable insights into the characteristics that contribute to a song's popularity. Such information would be instrumental for Spotify musicians in crafting tracks with greater potential for success and provide the marketing team with actionable data for strategic decision-making. 
+The project analyzes a dataset sourced from Kaggle [Link](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset?select=low_popularity_spotify_data.csv), which has been compiled from Spotify. This dataset includes both popular and non-popular songs, along with their corresponding audio and descriptive features. Analyzing this data could offer valuable insights into the characteristics that contribute to a song's popularity. Such information would be instrumental for Spotify musicians in crafting tracks with greater potential for success and provide the marketing team with actionable data for strategic decision-making. 
 
 ## Business Impact
 By exploring this data, Spotify could gain valuable insights that help guide better decisions. It would help identify the key features that make a song popular and highlight the most popular genres. Ultimately, these insights would help Spotify understand its audience and market trends more clearly, supporting smarter decisions for both content creation and marketing strategies.
