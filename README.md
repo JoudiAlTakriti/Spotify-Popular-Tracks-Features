@@ -8,9 +8,13 @@ By exploring this data, Spotify could gain valuable insights that help guide bet
 
 ## Data
 Files Name: high_popularity_spotify_data.csv, low_popularity_spotify_data.csv
-Description: descriptive and audio features of popular and non-popular tracks on Spotify 	
+
+Description: descriptive and audio features of popular and non-popular tracks on Spotify 
+
 Dataset Details:  4833 Rows & 29 Columns (for both files)
+
 Size: 1.4 MB and 733 KB (for each file)
+
 Source: Kaggle [Link](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset?select=low_popularity_spotify_data.csv))
 
 ## Data Analysis
